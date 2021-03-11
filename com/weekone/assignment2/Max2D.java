@@ -1,4 +1,4 @@
-package com.weekone.assignment;
+package com.weekone.assignment2;
 
 /**
  * get the maximum nuber and its position ine a 2d array

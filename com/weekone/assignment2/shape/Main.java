@@ -1,4 +1,4 @@
-package com.weekone.assignment.shape;
+package com.weekone.assignment2.shape;
 
 public class Main {
         
