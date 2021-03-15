@@ -1,0 +1,11 @@
+1. Which class would you use to store your birthday in years, months, days, seconds, and nanoseconds?
+    LocalDateTime
+
+2. Given a random date, how would you find the date of the previous Thursday?
+    with a TemporalAdjuster you can use a previous method
+
+3. What is the difference between a ZoneId and a ZoneOffset?
+    zone id uses zone rules to calculate a offset for a time and region while ZoneOffset tracks absolute offset from Greenwich/UTC
+
+4. How would you convert an Instant to a ZonedDateTime?
+    zoneDateTime.now().toInstant()
